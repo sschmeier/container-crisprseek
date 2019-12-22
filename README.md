@@ -1,4 +1,4 @@
-# Singularity configuration for simg-rnaseq container
+# Singularity configuration for crisprseek-grna-id workflow container
 
 A [Singularity](http://singularity.lbl.gov) definition for rnaseq workflow, available at [https://singularity-hub.org/collections/3938](https://singularity-hub.org/collections/3938).
 
