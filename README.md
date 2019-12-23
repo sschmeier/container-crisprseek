@@ -1,8 +1,9 @@
-# Singularity configuration for simg-rnaseq container
+# Singularity configuration for crisprseek-grna-id workflow container
 
-A [Singularity](http://singularity.lbl.gov) definition for rnaseq workflow, available at [https://www.singularity-hub.org/collections/](https://www.singularity-hub.org/collections/).
+A [Singularity](http://singularity.lbl.gov) definition for crisprseek-grna-id workflow. 
+The container is available at [https://singularity-hub.org/collections/3938](https://singularity-hub.org/collections/3938).
 
-If [Singularity](http://singularity.lbl.gov) is installed locally, the container can be build (needs root access) locally like this:
+If [Singularity](http://singularity.lbl.gov) is installed locally, the container can be build locally (needs root access):
 
 ```bash
 sudo singularity build crisprseek.sif Singularity > build.log 2>&1
